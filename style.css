@@ -1,3 +1,16 @@
-#header {
-  color: #6c94be;
+.container1 h1 {
+  font-size: 25px;
+  color: #E45456;
+}
+.container1 p {
+  font-size: 25px;
+  color: #3C7949;
+}
+.container1 .container2 h1 {
+  font-size: 25px;
+  color: #E45456;
+}
+.container1 .container2 p {
+  font-size: 25px;
+  color: #3C7949;
 }
